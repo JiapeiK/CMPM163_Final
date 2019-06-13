@@ -11,3 +11,6 @@ Jiapei Kuang :
 Ge Lu: 
 
 Zihan Yang:
+  - Fireworks
+  - Shooting stars
+  - Create main structure of final essay
