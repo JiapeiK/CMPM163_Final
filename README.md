@@ -1,7 +1,7 @@
 # CMPM163_Final
  Team: Jiapei Kuang, Zihan Yang, Ge Lu
 
-#Division of Work
+# Division of Work
 Jiapei Kuang : 
   - Combination of the whole project
   - Control Scripts 
