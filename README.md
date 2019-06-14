@@ -25,7 +25,7 @@ Download the final executable.
 
 By pressing "a", "s", "d", "f", "g" to change the scenes. For the "f" - shooting star scene, pressing space bar can shoot stars.
 
-"a" - Daylight
+"a" - Daylight (Probably gonna take a while for clouds to show up)
 
 "s" - Rain
 
