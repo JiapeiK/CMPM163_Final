@@ -3,7 +3,7 @@
 
 # Division of Work
 Jiapei Kuang : 
-  - Combination of the whole project
+  - Arrange the scene and combine different effects 
   - Control Scripts 
   - The daylight scene 
   - Water body and terrians 
