@@ -67,6 +67,7 @@
     <Compile Include="Assets\CrepuscularRays\Crepuscular.cs" />
     <None Include="Assets\CrepuscularRays\CrepuscularRayShader.shader" />
     <None Include="Assets\CrepuscularRays\Readme.txt" />
+    <None Include="Assets\Assets\Shader\God.shader" />
     <None Include="Assets\Assets\Shader\Wave.shader" />
     <None Include="Assets\Assets\Shader\HillFromTexture.shader" />
     <None Include="Assets\Assets\Shader\Water.shader" />
