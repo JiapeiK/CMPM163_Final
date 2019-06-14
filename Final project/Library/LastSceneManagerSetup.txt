@@ -1,7 +1,16 @@
 sceneSetups:
 - path: Assets/Assets/Scenes/Shooting star.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Assets/Scenes/Firework.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Assets/Scenes/starlight.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Assets/Scenes/Daylight.unity
   isLoaded: 1
   isActive: 1
-- path: Assets/Assets/Scenes/Firework.unity
-  isLoaded: 1
+- path: Assets/Assets/Scenes/rain.unity
+  isLoaded: 0
   isActive: 0

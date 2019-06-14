@@ -67,11 +67,13 @@
     <Compile Include="Assets\CrepuscularRays\Crepuscular.cs" />
     <None Include="Assets\CrepuscularRays\CrepuscularRayShader.shader" />
     <None Include="Assets\CrepuscularRays\Readme.txt" />
+    <None Include="Assets\Assets\Shader\God.shader" />
     <None Include="Assets\Assets\Shader\Wave.shader" />
     <None Include="Assets\Assets\Shader\HillFromTexture.shader" />
     <None Include="Assets\Assets\Shader\Water.shader" />
     <None Include="Assets\Assets\Shader\Additive_Base.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
+<<<<<<< HEAD
       <HintPath>/Users/gelu/Desktop/cmpm163final/CMPM163_Final/Final project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
@@ -85,6 +87,21 @@
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
       <HintPath>/Users/gelu/Desktop/cmpm163final/CMPM163_Final/Final project/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+=======
+      <HintPath>C:/Users/katek/Desktop/Cmpm163/Hwk2/CMPM163_Final/Final project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>C:/Users/katek/Desktop/Cmpm163/Hwk2/CMPM163_Final/Final project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.CollabProxy.Editor">
+      <HintPath>C:/Users/katek/Desktop/Cmpm163/Hwk2/CMPM163_Final/Final project/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>C:/Users/katek/Desktop/Cmpm163/Hwk2/CMPM163_Final/Final project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.DataPrivacy">
+      <HintPath>C:/Users/katek/Desktop/Cmpm163/Hwk2/CMPM163_Final/Final project/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+>>>>>>> 00039291ad3fef8d5f7324bde4c687d82df26ea0
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -294,10 +311,20 @@
       <HintPath>/Users/gelu/Desktop/cmpm163final/CMPM163_Final/Final project/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
+<<<<<<< HEAD
       <HintPath>/Users/gelu/Desktop/cmpm163final/CMPM163_Final/Final project/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
       <HintPath>/Users/gelu/Desktop/cmpm163final/CMPM163_Final/Final project/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+=======
+      <HintPath>C:/Users/katek/Desktop/Cmpm163/Hwk2/CMPM163_Final/Final project/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.StandardEvents">
+      <HintPath>C:/Users/katek/Desktop/Cmpm163/Hwk2/CMPM163_Final/Final project/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.Tracker">
+      <HintPath>C:/Users/katek/Desktop/Cmpm163/Hwk2/CMPM163_Final/Final project/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+>>>>>>> 00039291ad3fef8d5f7324bde4c687d82df26ea0
     </Reference>
     <Reference Include="netstandard">
       <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

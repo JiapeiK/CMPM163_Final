@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Assets/Scenes/Daylight.unity
     guid: 9669795c55834bb469cc9b9c5ac985fe
   - enabled: 1
-    path: Assets/Assets/Ge/rain.unity
+    path: Assets/Assets/Scenes/rain.unity
     guid: 51ddbcee76816dd468957e5aace939d8
   - enabled: 1
     path: Assets/Assets/Scenes/starlight.unity
