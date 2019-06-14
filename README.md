@@ -14,3 +14,12 @@ Zihan Yang:
   - Fireworks
   - Shooting stars
   - Create main structure of final essay
+
+# How to Run
+By pressing "a", "s", "d", "f", "g" to change the scenes. For the "f" - shooting star scene, pressing space bar can shoot stars.
+
+"a" - Daylight
+"s" - Rain
+"d" - Night 
+"f" - Shooting Stars
+"g" - Fireworks
