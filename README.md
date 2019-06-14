@@ -3,16 +3,18 @@
 
 # Division of Work
 Jiapei Kuang : 
-  - Arrange the scene and combine different effects 
+  - Arrange all the scenes and combine different effects 
   - Control Scripts 
-  - The daylight scene 
-  - Water body and terrians 
+  - Clouds
+  - Water body, Background, and terrians
+  - Abstract and some part of the final essay 
  
 Ge Lu:
   - Rain
   - Twinkling Stars
   - Revised the final essay  
   - Video recording
+  
 Zihan Yang:
   - Fireworks
   - Shooting stars
