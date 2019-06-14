@@ -8,7 +8,10 @@ Jiapei Kuang :
   - The daylight scene 
   - Water body and terrians 
  
-Ge Lu: 
+Ge Lu:
+  - Rain
+  - Twinkling Stars
+  - Revised the final essay  
 
 Zihan Yang:
   - Fireworks
