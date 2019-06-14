@@ -12,7 +12,7 @@ Ge Lu:
   - Rain
   - Twinkling Stars
   - Revised the final essay  
-
+  - Video recording
 Zihan Yang:
   - Fireworks
   - Shooting stars
@@ -29,4 +29,14 @@ By pressing "a", "s", "d", "f", "g" to change the scenes. For the "f" - shooting
 
 "f" - Shooting Stars
 
-"g" - Fireworks
+"g" - Firework
+
+
+
+
+Link to highlight video:
+ https://drive.google.com/file/d/1nk2M-Zsy3zJCnsL3C8ehOtQOfy0z6Qdy/view?usp=sharing
+
+or
+
+https://www.youtube.com/watch?v=z6I-74kz-IY&feature=youtu.bes
