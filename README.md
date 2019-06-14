@@ -21,6 +21,8 @@ Zihan Yang:
   - Create main structure of final essay
 
 # How to Run
+Download the final executable. 
+
 By pressing "a", "s", "d", "f", "g" to change the scenes. For the "f" - shooting star scene, pressing space bar can shoot stars.
 
 "a" - Daylight
@@ -33,10 +35,7 @@ By pressing "a", "s", "d", "f", "g" to change the scenes. For the "f" - shooting
 
 "g" - Firework
 
-
-
-
-Link to highlight video:
+# Link to highlight video:
  https://drive.google.com/file/d/1nk2M-Zsy3zJCnsL3C8ehOtQOfy0z6Qdy/view?usp=sharing
 
 or
